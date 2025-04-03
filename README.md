@@ -2,7 +2,7 @@
 
 This repository contains a backup of the corporate website for **URBC Trading** ([urbctrading.com](https://urbctrading.com)), a business-focused WordPress site showcasing the company’s services, mission, and contact information.
 
-![URBC Trading Screenshot](assets/screenshot-homepage.png)
+![URBC Trading Screenshot](urbc-homepage.png)
 
 ## 🔧 Tech Stack
 - WordPress CMS
